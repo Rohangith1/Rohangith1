@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohangith1&label=Profile%20views&color=0e75b6&style=flat" alt="rohangith1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohangith1" alt="rohangith1" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/rohanphuke" target="blank"><img src="https://img.shields.io/twitter/follow/rohanphuke?logo=twitter&style=for-the-badge" alt="rohanphuke" /></a> </p>
 
@@ -19,6 +19,8 @@
 - 📫 How to reach me **ultronix.uix@gmail.com**
 
 - ⚡ Fun fact **Sorry I forgot to laugh> funny? huhhh**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohangith1" alt="rohangith1" /></a> </p>  
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
