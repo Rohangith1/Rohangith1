@@ -51,4 +51,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohangith1&" alt="rohangith1" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.gif)
+![snake gif](https://github.com/Rohangith1/Rohangith1/blob/output/github-contribution-grid-snake.gif)
