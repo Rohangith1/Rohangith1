@@ -33,7 +33,7 @@
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:[ultronix.uix@gmail.com]">
-      <img align="center" src="https://github.com/Rohangith1/Rohangith1/blob/main/Gmail_icon_(2020).svg.png" width="100"/>
+      <img align="center" src="https://github.com/Rohangith1/Rohangith1/blob/main/Gmail_icon_(2020).svg.png" width="30"/>
     </a>
   </p>
 </details>
