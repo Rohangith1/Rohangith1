@@ -8,7 +8,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/rohanphuke" target="blank"><img src="https://img.shields.io/twitter/follow/rohanphuke?logo=twitter&style=for-the-badge" alt="rohanphuke" /></a> </p>
+<p align="left"> <a href="https://instagram.com/ultronix_uix" target="blank"><img src="https://img.shields.io/twitter/follow/rohanphuke?logo=twitter&style=for-the-badge" alt="rohanphuke" /></a> </p>
 
 - 🔭 I’m currently working on [UiX MASTER CLASS (MERN)](https://grand-palmier-2475f7.netlify.app/)
 
