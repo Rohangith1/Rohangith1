@@ -1,5 +1,7 @@
 ![logo](https://github.com/Rohangith1/Rohangith1/blob/main/banner.png)
-<h1 align="center">Hey there, I'm UiX Phu-ke</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+UiX+Phuke!;" />
+</h1>
 <h3 align="center">A passionate Web Developer & Graphic Designer.</h3>
 
 <img align="right" alt="PHUKE" width="400" src="https://github.com/Rohangith1/Rohangith1/blob/main/06f21a161921919.63cd7887d0a70.gif">
