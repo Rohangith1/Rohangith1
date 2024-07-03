@@ -52,9 +52,9 @@
     
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/uixphuke"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uixphuke" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/uixphuke"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uixphuke" /></a></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohangith1&show_icons=true&locale=en&layout=compact" alt="rohangith1"  /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohangith1&show_icons=true&locale=en&layout=compact" alt="rohangith1"  /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohangith1&show_icons=true&locale=en" alt="rohangith1" /></p>
 
