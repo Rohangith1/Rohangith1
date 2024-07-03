@@ -50,3 +50,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohangith1&show_icons=true&locale=en" alt="rohangith1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohangith1&" alt="rohangith1" /></p>
+
+![snake gif](https://github.com/Rohangith1/Rohangith1/blob/output/github-contribution-grid-snake.gif)
