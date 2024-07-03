@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm UiX Phu-ke</h1>
 <h3 align="center">A passionate Web Developer & Graphic Designer.</h3>
 
-<img align="right" alt="PHUKE" width="400" src"https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="PHUKE" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohangith1&label=Profile%20views&color=0e75b6&style=flat" alt="rohangith1" /> </p>
