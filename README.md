@@ -27,6 +27,16 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
+<details>
+  <summary><h2> <img align="center" src="https://github.com/Rohangith1/Rohamgith1/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:[ultronix.uix@gmail.com]">
+      <img align="center" src="https://github.com/Rohangith1/Rohamgith1/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
+</details>
 <!-- BLOG-POST-LIST:END -->
 
 
