@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React, Node.js, Tailwind CSS**
 
-- 📫 How to reach me **ultronix.uix@gmail.com**
+- 📫 How to reach me <img  src="https://github.com/Rohangith1/Rohangith1/blob/main/Gmail_icon_(2020).svg.png" width="20"/> **ultronix.uix@gmail.com**
 
 - ⚡ Fun fact **Sorry I forgot to laugh> funny? huhhh**
 
@@ -28,15 +28,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/Rohangith1/Rohangith1/blob/main/Gmail_icon_(2020).svg.png" width="37"/> Contact Me</h2></summary>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:[ultronix.uix@gmail.com]">
-      <img align="center" src="https://github.com/Rohangith1/Rohangith1/blob/main/Gmail_icon_(2020).svg.png" width="30"/>
-    </a>
-  </p>
-</details>
+
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -60,9 +52,9 @@
     
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/uixphuke"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uixphuke" margin="2px" padding="2px"/></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/uixphuke"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uixphuke" /></a></p><br><br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohangith1&show_icons=true&locale=en&layout=compact" alt="rohangith1"  margin="2px"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohangith1&show_icons=true&locale=en&layout=compact" alt="rohangith1"  /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohangith1&show_icons=true&locale=en" alt="rohangith1" /></p>
 
