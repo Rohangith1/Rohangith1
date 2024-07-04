@@ -23,6 +23,15 @@
 
 - ⚡ Fun fact **Sorry I forgot to laugh> funny? huhhh**
 
+  <details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+  </div>
+</details>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohangith1" alt="rohangith1" /></a> </p>  
 
 ### Blogs posts
