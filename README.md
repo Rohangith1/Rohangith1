@@ -12,7 +12,7 @@
 
 
 <p align="left"> <a href="https://instagram.com/ultronix_uix" target="blank"><img src="https://img.shields.io/twitter/follow/ultronix_uix?logo=instagram&style=for-the-badge" alt="rohanphuke" /></a> </p>
-<a href="https://twitter.com/rohanphuke"><img src="imgs/twitter.svg" alt="Twitter"></a>
+
 
 
 - 🔭 I’m currently working on [UiX MASTER CLASS (MERN)](https://grand-palmier-2475f7.netlify.app/)
